@@ -1,6 +1,10 @@
-# CG10-DET-yolo-
+# CG10-DET-yolo
+
 在做金属表面缺陷实验，看了下github上似乎没有CG10-DET的yolo数据集，自己做了一份，开源出来
 labels为官方数据集的VOC格式的数据集，本人仅把他转换成了yolo格式的，保存在了txt文件夹下
+文件太大，只能保存在百度网盘中，链接：https://pan.baidu.com/s/1HDdBCL9XEWeTYxOuzvTeAQ 提取码：ad5r 
+如果对你有用，请star我的repo，谢谢啦~
+
 
 | 类别        | 数量 |
 | ----------- | :--- |
